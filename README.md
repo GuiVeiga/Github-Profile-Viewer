@@ -16,6 +16,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The CSS was inspired on SankThomas' [github-users](https://github.com/SankThomas/github-users) project.
 
-LiveAPP on Vercel:
+LiveAPP on Vercel: [https://github-profile-viewer-puce.vercel.app/](https://github-profile-viewer-puce.vercel.app/)
 
 ### Note: This project was made for an application for a Fullstack Developer Position, however I could only manage to do the Front-End Test.
